@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keshavrathi007
-- 👀 I’m interested in Javascript, Python, Datastructure and Algo
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on any MERN stack
+- 👀 I’m interested in Javascript, Python, Datastructure and Bots
+- 🌱 I’m currently learning MERN stack, Discord Bots, Telegram Bots
+- 💞️ I’m looking to collaborate on any MERN stack and DiscordJS
 - 📫 How to reach me keshavanilrathi21@gmail.com
 
 <!---
